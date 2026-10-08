@@ -8,8 +8,8 @@ everything else, and you stay signed in.
 
 | Your Mac | Click to download |
 |---|---|
-| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 132 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.1-mac-arm64.dmg)** |
-| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 139 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.1-mac-x64.dmg)** |
+| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 132 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.2-mac-arm64.dmg)** |
+| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 139 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.2-mac-x64.dmg)** |
 
 Not sure which Mac you have? Apple menu  → **About This Mac**: "Chip Apple M…" = Apple chip, "Processor Intel" = Intel.
 Then follow **Install** and **The first time you open it** below.
@@ -59,6 +59,7 @@ Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimaw
 
 Newest first. Add one line per change.
 
+- **2026-10-08** 1.0.2: the app icon in the Dock is the Academy robot with its cap, no text. Download links point to 1.0.2.
 - **2026-10-08** Direct download links at the top of the page (the files were only on the Releases page).
 - **2026-10-08** First public Mac download: Tanimawo AI 1.0.1 (Apple chip and Intel). Built by the private
   Tanimawo_AI-desktop-app repo; only the installers are published here.
