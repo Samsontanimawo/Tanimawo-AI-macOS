@@ -53,7 +53,7 @@ or features. A new download is only needed when the app itself changes; it will 
 Ask in the Telegram community group: [t.me/DrDanielFreeAIChat](https://t.me/DrDanielFreeAIChat), or email
 tanimawoaiacademy@gmail.com.
 
-Windows users: the Windows version is shared separately.
+Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimawo-AI-Windows).
 
 ## Change log
 
