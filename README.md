@@ -8,8 +8,8 @@ everything else, and you stay signed in.
 
 | Your Mac | Click to download |
 |---|---|
-| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 133 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.4-mac-arm64.dmg)** |
-| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 140 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.4-mac-x64.dmg)** |
+| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 133 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.5-mac-arm64.dmg)** |
+| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 140 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-macOS/releases/latest/download/Tanimawo-AI-1.0.5-mac-x64.dmg)** |
 
 Not sure which Mac you have? Apple menu  → **About This Mac**: "Chip Apple M…" = Apple chip, "Processor Intel" = Intel.
 Then follow **Install** and **The first time you open it** below.
@@ -61,6 +61,7 @@ Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimaw
 
 Newest first. Add one line per change.
 
+- **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a number on the app icon in the Dock). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages). Download links point to 1.0.4.
 - **2026-10-09** 1.0.3: the app tells you when a new version is out and shows a Download button (Help → Check for updates too); it reads the newest release here. Download links point to 1.0.3.
 - **2026-10-08** 1.0.2: the app icon in the Dock is the Academy robot with its cap, no text. Download links point to 1.0.2.
