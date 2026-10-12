@@ -61,7 +61,7 @@ Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimaw
 
 Newest first. Add one line per change.
 
-- **1.0.6** (2026-10-12) Voice and video calls in Connect work in the app, with Share your screen. The first call asks for the microphone and camera; Share your screen may ask for Screen Recording once.
+- **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen. The first call asks for the microphone and camera; Share your screen may ask for Screen Recording once.
 - **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a number on the app icon in the Dock). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages). Download links point to 1.0.4.
 - **2026-10-09** 1.0.3: the app tells you when a new version is out and shows a Download button (Help → Check for updates too); it reads the newest release here. Download links point to 1.0.3.
