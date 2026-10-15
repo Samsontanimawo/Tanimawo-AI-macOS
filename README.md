@@ -61,7 +61,7 @@ Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimaw
 
 Newest first. Add one line per change.
 
-- **2026-10-13** 1.0.7: the app is now called **Tanix**. You stay signed in.
+- **2026-10-13** 1.0.7: the app is now called **TaniX**. You stay signed in.
 - **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen. The first call asks for the microphone and camera; Share your screen may ask for Screen Recording once.
 - **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a number on the app icon in the Dock). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages). Download links point to 1.0.4.
