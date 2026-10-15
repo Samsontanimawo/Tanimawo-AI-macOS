@@ -61,6 +61,7 @@ Windows version: [Tanimawo-AI-Windows](https://github.com/Samsontanimawo/Tanimaw
 
 Newest first. Add one line per change.
 
+- **2026-10-15** 1.0.8: the name is written **TaniX**, with a capital X - the X is everything inside it: Connect, Community, Code Lab and the rest. You stay signed in.
 - **2026-10-13** 1.0.7: the app is now called **TaniX**. You stay signed in.
 - **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen. The first call asks for the microphone and camera; Share your screen may ask for Screen Recording once.
 - **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a number on the app icon in the Dock). Download links point to 1.0.5.
